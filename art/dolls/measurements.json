@@ -1,0 +1,2743 @@
+{
+  "canvas": [
+    120,
+    200
+  ],
+  "source": "bare bodies in hearthhold-library/art/dolls/bare (2026-11-09), skin silhouette with tight underclothes; widths are left-leg widths for thigh/knee/ankle",
+  "model": "bare-bodies-2026-11-09",
+  "note": "Canonical body measurements from hearthhold-library art/dolls/bare (2026-11-09). These REPLACE the old shift-based measurements. piece_morphs (and only those) are retained from df-looks-croc 383d7f0 (human boxes = 504a86d; croc garments = outer morphs). Garments are NOT refit to the new bare bodies yet.",
+  "bodies": {
+    "human-m": {
+      "head_top_y": 7,
+      "head_width": 21,
+      "neck_y": 27,
+      "neck_width": 15,
+      "shoulder_y": 38,
+      "shoulder_outer_width": 48,
+      "arm_separate_y": 66,
+      "chest_y": 67,
+      "chest_width": 32,
+      "chest_outer_width": 55,
+      "waist_y": 72,
+      "waist_width": 30,
+      "waist_x": [
+        45,
+        74
+      ],
+      "hip_y": 95,
+      "hip_width": 38,
+      "hip_x": [
+        41,
+        78
+      ],
+      "crotch_y": 107,
+      "thigh_width": 19,
+      "armpit_y": 66,
+      "knee_y": 146,
+      "knee_estimated": true,
+      "knee_width": 14,
+      "ankle_y": 171,
+      "ankle_width": 7,
+      "foot_y": 194,
+      "foot_width": 43,
+      "foot_x": [
+        39,
+        81
+      ],
+      "hand_bottom_y": 106,
+      "total_height": 188,
+      "leg_len": 87,
+      "bbox": [
+        30,
+        7,
+        90,
+        195
+      ],
+      "frame": "human",
+      "label": "human-m",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+      "piece_morphs": {
+        "armour-leather": {
+          "w": 72,
+          "h": 101,
+          "x": 24,
+          "y": 32,
+          "source": "504a86d"
+        },
+        "armour-mail": {
+          "w": 74,
+          "h": 91,
+          "x": 23,
+          "y": 38,
+          "source": "504a86d"
+        },
+        "armour-plate": {
+          "w": 59,
+          "h": 100,
+          "x": 30,
+          "y": 30,
+          "source": "504a86d"
+        },
+        "boots-leather": {
+          "w": 42,
+          "h": 38,
+          "x": 39,
+          "y": 158,
+          "source": "504a86d"
+        },
+        "boots-mail": {
+          "w": 42,
+          "h": 38,
+          "x": 39,
+          "y": 158,
+          "source": "504a86d"
+        },
+        "boots-plate": {
+          "w": 42,
+          "h": 38,
+          "x": 39,
+          "y": 158,
+          "source": "504a86d"
+        },
+        "boots": {
+          "w": 42,
+          "h": 38,
+          "x": 39,
+          "y": 158,
+          "source": "504a86d"
+        },
+        "bracers-leather": {
+          "w": 61,
+          "h": 28,
+          "x": 30,
+          "y": 105,
+          "source": "504a86d"
+        },
+        "bracers-plate": {
+          "w": 62,
+          "h": 26,
+          "x": 30,
+          "y": 106,
+          "source": "504a86d"
+        },
+        "cloak": {
+          "w": 72,
+          "h": 134,
+          "x": 24,
+          "y": 38,
+          "source": "504a86d"
+        },
+        "greaves-plate": {
+          "w": 44,
+          "h": 38,
+          "x": 38,
+          "y": 144,
+          "source": "504a86d"
+        },
+        "hair-long": {
+          "w": 45,
+          "h": 61,
+          "x": 40,
+          "y": 7,
+          "source": "504a86d"
+        },
+        "hair-short": {
+          "w": 32,
+          "h": 36,
+          "x": 51,
+          "y": 7,
+          "source": "504a86d"
+        },
+        "hair-swept": {
+          "w": 45,
+          "h": 61,
+          "x": 41,
+          "y": 7,
+          "source": "504a86d"
+        },
+        "pauldrons-leather": {
+          "w": 65,
+          "h": 19,
+          "x": 28,
+          "y": 41,
+          "source": "504a86d"
+        },
+        "pauldrons-plate": {
+          "w": 65,
+          "h": 24,
+          "x": 28,
+          "y": 38,
+          "source": "504a86d"
+        },
+        "robe": {
+          "w": 72,
+          "h": 134,
+          "x": 24,
+          "y": 38,
+          "source": "504a86d"
+        },
+        "trousers-leather": {
+          "w": 40,
+          "h": 66,
+          "x": 40,
+          "y": 112,
+          "source": "504a86d"
+        },
+        "trousers-mail": {
+          "w": 40,
+          "h": 66,
+          "x": 40,
+          "y": 112,
+          "source": "504a86d"
+        },
+        "trousers": {
+          "w": 40,
+          "h": 66,
+          "x": 40,
+          "y": 112,
+          "source": "504a86d"
+        },
+        "tunic": {
+          "w": 74,
+          "h": 110,
+          "x": 23,
+          "y": 36,
+          "source": "504a86d"
+        },
+        "underclothes": {
+          "w": 52,
+          "h": 109,
+          "x": 34,
+          "y": 36,
+          "source": "504a86d"
+        },
+        "helm-leather": {
+          "x": 43,
+          "y": 7,
+          "w": 35,
+          "h": 40,
+          "n": 830,
+          "source": "504a86d"
+        },
+        "helm-mail": {
+          "x": 45,
+          "y": 7,
+          "w": 31,
+          "h": 41,
+          "n": 961,
+          "source": "504a86d"
+        },
+        "helm-plate": {
+          "x": 45,
+          "y": 7,
+          "w": 30,
+          "h": 41,
+          "n": 818,
+          "source": "504a86d"
+        }
+      },
+      "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+    },
+    "human-f": {
+      "head_top_y": 7,
+      "head_width": 20,
+      "neck_y": 29,
+      "neck_width": 12,
+      "shoulder_y": 39,
+      "shoulder_outer_width": 44,
+      "arm_separate_y": 62,
+      "chest_y": 63,
+      "chest_width": 29,
+      "chest_outer_width": 49,
+      "waist_y": 73,
+      "waist_width": 25,
+      "waist_x": [
+        47,
+        71
+      ],
+      "hip_y": 102,
+      "hip_width": 43,
+      "hip_x": [
+        38,
+        80
+      ],
+      "crotch_y": 104,
+      "thigh_width": 20,
+      "armpit_y": 62,
+      "knee_y": 144,
+      "knee_estimated": true,
+      "knee_width": 13,
+      "ankle_y": 175,
+      "ankle_width": 6,
+      "foot_y": 194,
+      "foot_width": 62,
+      "foot_x": [
+        29,
+        90
+      ],
+      "hand_bottom_y": 103,
+      "total_height": 188,
+      "leg_len": 90,
+      "bbox": [
+        27,
+        7,
+        93,
+        195
+      ],
+      "frame": "human",
+      "label": "human-f",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+      "piece_morphs": {
+        "armour-leather": {
+          "w": 54,
+          "h": 101,
+          "x": 32,
+          "y": 32,
+          "source": "504a86d"
+        },
+        "armour-mail": {
+          "w": 66,
+          "h": 103,
+          "x": 26,
+          "y": 32,
+          "source": "504a86d"
+        },
+        "armour-plate": {
+          "w": 52,
+          "h": 100,
+          "x": 34,
+          "y": 30,
+          "source": "504a86d"
+        },
+        "boots-leather": {
+          "w": 67,
+          "h": 40,
+          "x": 26,
+          "y": 156,
+          "source": "504a86d"
+        },
+        "boots-mail": {
+          "w": 67,
+          "h": 40,
+          "x": 26,
+          "y": 156,
+          "source": "504a86d"
+        },
+        "boots-plate": {
+          "w": 67,
+          "h": 40,
+          "x": 26,
+          "y": 156,
+          "source": "504a86d"
+        },
+        "boots": {
+          "w": 67,
+          "h": 40,
+          "x": 26,
+          "y": 156,
+          "source": "504a86d"
+        },
+        "bracers-leather": {
+          "w": 65,
+          "h": 28,
+          "x": 28,
+          "y": 105,
+          "source": "504a86d"
+        },
+        "bracers-plate": {
+          "w": 66,
+          "h": 26,
+          "x": 28,
+          "y": 106,
+          "source": "504a86d"
+        },
+        "cloak": {
+          "w": 72,
+          "h": 134,
+          "x": 24,
+          "y": 38,
+          "source": "504a86d"
+        },
+        "greaves-plate": {
+          "w": 63,
+          "h": 38,
+          "x": 29,
+          "y": 144,
+          "source": "504a86d"
+        },
+        "hair-braids": {
+          "w": 31,
+          "h": 59,
+          "x": 47,
+          "y": 7,
+          "source": "504a86d"
+        },
+        "hair-bun": {
+          "w": 28,
+          "h": 61,
+          "x": 50,
+          "y": 7,
+          "source": "504a86d"
+        },
+        "hair-long": {
+          "w": 37,
+          "h": 63,
+          "x": 42,
+          "y": 7,
+          "source": "504a86d"
+        },
+        "pauldrons-leather": {
+          "w": 61,
+          "h": 19,
+          "x": 30,
+          "y": 39,
+          "source": "504a86d"
+        },
+        "pauldrons-plate": {
+          "w": 61,
+          "h": 24,
+          "x": 30,
+          "y": 36,
+          "source": "504a86d"
+        },
+        "robe": {
+          "w": 72,
+          "h": 134,
+          "x": 24,
+          "y": 38,
+          "source": "504a86d"
+        },
+        "trousers-leather": {
+          "w": 49,
+          "h": 66,
+          "x": 35,
+          "y": 112,
+          "source": "504a86d"
+        },
+        "trousers-mail": {
+          "w": 54,
+          "h": 66,
+          "x": 33,
+          "y": 112,
+          "source": "504a86d"
+        },
+        "trousers": {
+          "w": 54,
+          "h": 66,
+          "x": 33,
+          "y": 112,
+          "source": "504a86d"
+        },
+        "tunic": {
+          "w": 59,
+          "h": 120,
+          "x": 31,
+          "y": 36,
+          "source": "504a86d"
+        },
+        "underclothes": {
+          "w": 60,
+          "h": 125,
+          "x": 30,
+          "y": 34,
+          "source": "504a86d"
+        },
+        "f-helm-leather": {
+          "x": 43,
+          "y": 7,
+          "w": 35,
+          "h": 40,
+          "n": 830,
+          "source": "504a86d"
+        },
+        "f-helm-mail": {
+          "x": 45,
+          "y": 7,
+          "w": 31,
+          "h": 41,
+          "n": 961,
+          "source": "504a86d"
+        },
+        "f-helm-plate": {
+          "x": 45,
+          "y": 7,
+          "w": 30,
+          "h": 41,
+          "n": 818,
+          "source": "504a86d"
+        }
+      },
+      "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+    },
+    "elf-m": {
+      "head_top_y": 7,
+      "head_width": 24,
+      "neck_y": 26,
+      "neck_width": 14,
+      "shoulder_y": 38,
+      "shoulder_outer_width": 48,
+      "arm_separate_y": 66,
+      "chest_y": 67,
+      "chest_width": 32,
+      "chest_outer_width": 55,
+      "waist_y": 72,
+      "waist_width": 30,
+      "waist_x": [
+        45,
+        74
+      ],
+      "hip_y": 95,
+      "hip_width": 38,
+      "hip_x": [
+        41,
+        78
+      ],
+      "crotch_y": 107,
+      "thigh_width": 19,
+      "armpit_y": 66,
+      "knee_y": 146,
+      "knee_estimated": true,
+      "knee_width": 14,
+      "ankle_y": 171,
+      "ankle_width": 7,
+      "foot_y": 194,
+      "foot_width": 43,
+      "foot_x": [
+        39,
+        81
+      ],
+      "hand_bottom_y": 106,
+      "total_height": 188,
+      "leg_len": 87,
+      "bbox": [
+        30,
+        7,
+        90,
+        195
+      ],
+      "frame": "human-m (shared below the neck)",
+      "label": "elf-m",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+    },
+    "elf-f": {
+      "head_top_y": 7,
+      "head_width": 24,
+      "neck_y": 30,
+      "neck_width": 11,
+      "shoulder_y": 39,
+      "shoulder_outer_width": 44,
+      "arm_separate_y": 62,
+      "chest_y": 63,
+      "chest_width": 29,
+      "chest_outer_width": 49,
+      "waist_y": 73,
+      "waist_width": 25,
+      "waist_x": [
+        47,
+        71
+      ],
+      "hip_y": 102,
+      "hip_width": 43,
+      "hip_x": [
+        38,
+        80
+      ],
+      "crotch_y": 104,
+      "thigh_width": 20,
+      "armpit_y": 62,
+      "knee_y": 144,
+      "knee_estimated": true,
+      "knee_width": 13,
+      "ankle_y": 175,
+      "ankle_width": 6,
+      "foot_y": 194,
+      "foot_width": 62,
+      "foot_x": [
+        29,
+        90
+      ],
+      "hand_bottom_y": 103,
+      "total_height": 188,
+      "leg_len": 90,
+      "bbox": [
+        27,
+        7,
+        93,
+        195
+      ],
+      "frame": "human-f (shared below the neck)",
+      "label": "elf-f",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+    },
+    "crocasian-m": {
+      "head_top_y": 6,
+      "head_width": 24,
+      "neck_y": 26,
+      "neck_width": 18,
+      "shoulder_y": 38,
+      "shoulder_outer_width": 48,
+      "arm_separate_y": 66,
+      "chest_y": 67,
+      "chest_width": 32,
+      "chest_outer_width": 55,
+      "waist_y": 72,
+      "waist_width": 30,
+      "waist_x": [
+        45,
+        74
+      ],
+      "hip_y": 95,
+      "hip_width": 38,
+      "hip_x": [
+        41,
+        78
+      ],
+      "crotch_y": 107,
+      "thigh_width": 19,
+      "armpit_y": 66,
+      "knee_y": 146,
+      "knee_estimated": true,
+      "knee_width": 14,
+      "ankle_y": 171,
+      "ankle_width": 7,
+      "foot_y": 194,
+      "foot_width": 43,
+      "foot_x": [
+        39,
+        81
+      ],
+      "hand_bottom_y": 106,
+      "total_height": 189,
+      "leg_len": 87,
+      "bbox": [
+        30,
+        6,
+        90,
+        195
+      ],
+      "frame": "human-m (shared below the neck)",
+      "label": "crocasian-m",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+      "piece_morphs": {
+        "tunic": {
+          "w": 79,
+          "h": 118,
+          "x": 21,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 6785
+        },
+        "robe": {
+          "w": 77,
+          "h": 144,
+          "x": 22,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 8114
+        },
+        "cloak": {
+          "w": 77,
+          "h": 144,
+          "x": 22,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 8114
+        },
+        "underclothes": {
+          "w": 64,
+          "h": 117,
+          "x": 28,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 6774
+        },
+        "armour-leather": {
+          "w": 77,
+          "h": 108,
+          "x": 22,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 6754
+        },
+        "armour-mail": {
+          "w": 79,
+          "h": 98,
+          "x": 21,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 5843
+        },
+        "armour-plate": {
+          "w": 72,
+          "h": 107,
+          "x": 24,
+          "y": 32,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.069,
+          "n": 6453
+        },
+        "pauldrons-leather": {
+          "w": 69,
+          "h": 20,
+          "x": 26,
+          "y": 34,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.069,
+          "n": 529
+        },
+        "pauldrons-plate": {
+          "w": 69,
+          "h": 26,
+          "x": 26,
+          "y": 34,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.069,
+          "n": 783
+        },
+        "trousers": {
+          "w": 64,
+          "h": 64,
+          "x": 28,
+          "y": 104,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.143,
+          "n": 3453
+        },
+        "trousers-leather": {
+          "w": 64,
+          "h": 64,
+          "x": 28,
+          "y": 104,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.143,
+          "n": 3388
+        },
+        "trousers-mail": {
+          "w": 64,
+          "h": 64,
+          "x": 28,
+          "y": 104,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.143,
+          "n": 3388
+        },
+        "greaves-plate": {
+          "w": 64,
+          "h": 37,
+          "x": 28,
+          "y": 104,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.143,
+          "n": 1437
+        },
+        "boots": {
+          "w": 58,
+          "h": 45,
+          "x": 31,
+          "y": 151,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.163,
+          "n": 1820
+        },
+        "boots-leather": {
+          "w": 58,
+          "h": 45,
+          "x": 31,
+          "y": 151,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.163,
+          "n": 1820
+        },
+        "boots-mail": {
+          "w": 58,
+          "h": 45,
+          "x": 31,
+          "y": 151,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.163,
+          "n": 1820
+        },
+        "boots-plate": {
+          "w": 58,
+          "h": 45,
+          "x": 31,
+          "y": 151,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.163,
+          "n": 1820
+        },
+        "bracers-leather": {
+          "w": 65,
+          "h": 30,
+          "x": 28,
+          "y": 105,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.069,
+          "n": 740
+        },
+        "bracers-plate": {
+          "w": 66,
+          "h": 28,
+          "x": 27,
+          "y": 106,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.069,
+          "n": 638
+        },
+        "helm-leather": {
+          "w": 32,
+          "h": 31,
+          "x": 43,
+          "y": 6,
+          "source": "human504-scaled-helm",
+          "n": 616
+        },
+        "helm-mail": {
+          "w": 32,
+          "h": 31,
+          "x": 43,
+          "y": 6,
+          "source": "human504-scaled-helm",
+          "n": 673
+        },
+        "helm-plate": {
+          "w": 32,
+          "h": 31,
+          "x": 43,
+          "y": 6,
+          "source": "human504-scaled-helm",
+          "n": 665
+        },
+        "hair-swept": {
+          "x": 57,
+          "y": 6,
+          "w": 19,
+          "h": 10,
+          "n": 35
+        },
+        "hair-braids": {
+          "x": 47,
+          "y": 6,
+          "w": 26,
+          "h": 10,
+          "n": 69
+        },
+        "hair-bun": {
+          "x": 55,
+          "y": 5,
+          "w": 9,
+          "h": 3,
+          "n": 12
+        },
+        "hair-short": {
+          "x": 50,
+          "y": 6,
+          "w": 20,
+          "h": 4,
+          "n": 35
+        },
+        "hair-long": {
+          "x": 53,
+          "y": 6,
+          "w": 14,
+          "h": 4,
+          "n": 16
+        }
+      },
+      "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+    },
+    "crocasian-f": {
+      "head_top_y": 6,
+      "head_width": 24,
+      "neck_y": 26,
+      "neck_width": 16,
+      "shoulder_y": 39,
+      "shoulder_outer_width": 44,
+      "arm_separate_y": 62,
+      "chest_y": 63,
+      "chest_width": 29,
+      "chest_outer_width": 49,
+      "waist_y": 73,
+      "waist_width": 25,
+      "waist_x": [
+        47,
+        71
+      ],
+      "hip_y": 102,
+      "hip_width": 43,
+      "hip_x": [
+        38,
+        80
+      ],
+      "crotch_y": 104,
+      "thigh_width": 20,
+      "armpit_y": 62,
+      "knee_y": 144,
+      "knee_estimated": true,
+      "knee_width": 13,
+      "ankle_y": 175,
+      "ankle_width": 6,
+      "foot_y": 194,
+      "foot_width": 62,
+      "foot_x": [
+        29,
+        90
+      ],
+      "hand_bottom_y": 103,
+      "total_height": 189,
+      "leg_len": 90,
+      "bbox": [
+        27,
+        6,
+        93,
+        195
+      ],
+      "frame": "human-f (shared below the neck)",
+      "label": "crocasian-f",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+      "piece_morphs": {
+        "tunic": {
+          "w": 70,
+          "h": 116,
+          "x": 25,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 6669
+        },
+        "robe": {
+          "w": 76,
+          "h": 130,
+          "x": 22,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 7087
+        },
+        "cloak": {
+          "w": 76,
+          "h": 130,
+          "x": 22,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 7087
+        },
+        "underclothes": {
+          "w": 70,
+          "h": 121,
+          "x": 25,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 6925
+        },
+        "armour-leather": {
+          "w": 70,
+          "h": 98,
+          "x": 25,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 5803
+        },
+        "armour-mail": {
+          "w": 70,
+          "h": 100,
+          "x": 25,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 5709
+        },
+        "armour-plate": {
+          "w": 74,
+          "h": 97,
+          "x": 23,
+          "y": 39,
+          "source": "human504-scaled",
+          "region": "chest",
+          "scale_w": 1.053,
+          "n": 5614
+        },
+        "pauldrons-leather": {
+          "w": 72,
+          "h": 18,
+          "x": 24,
+          "y": 41,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.053,
+          "n": 517
+        },
+        "pauldrons-plate": {
+          "w": 72,
+          "h": 23,
+          "x": 24,
+          "y": 41,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.053,
+          "n": 781
+        },
+        "trousers": {
+          "w": 62,
+          "h": 66,
+          "x": 29,
+          "y": 101,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.053,
+          "n": 3152
+        },
+        "trousers-leather": {
+          "w": 62,
+          "h": 66,
+          "x": 29,
+          "y": 101,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.053,
+          "n": 3114
+        },
+        "trousers-mail": {
+          "w": 62,
+          "h": 66,
+          "x": 29,
+          "y": 101,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.053,
+          "n": 3116
+        },
+        "greaves-plate": {
+          "w": 62,
+          "h": 38,
+          "x": 29,
+          "y": 101,
+          "source": "human504-scaled",
+          "region": "hip",
+          "scale_w": 1.053,
+          "n": 949
+        },
+        "boots": {
+          "w": 76,
+          "h": 53,
+          "x": 22,
+          "y": 143,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.053,
+          "n": 2809
+        },
+        "boots-leather": {
+          "w": 76,
+          "h": 53,
+          "x": 22,
+          "y": 143,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.053,
+          "n": 2809
+        },
+        "boots-mail": {
+          "w": 76,
+          "h": 53,
+          "x": 22,
+          "y": 143,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.053,
+          "n": 2809
+        },
+        "boots-plate": {
+          "w": 76,
+          "h": 53,
+          "x": 22,
+          "y": 143,
+          "source": "human504-scaled",
+          "region": "foot",
+          "scale_w": 1.053,
+          "n": 2809
+        },
+        "bracers-leather": {
+          "w": 68,
+          "h": 27,
+          "x": 26,
+          "y": 105,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.053,
+          "n": 714
+        },
+        "bracers-plate": {
+          "w": 69,
+          "h": 25,
+          "x": 26,
+          "y": 106,
+          "source": "human504-scaled",
+          "region": "shoulder",
+          "scale_w": 1.053,
+          "n": 588
+        },
+        "f-helm-leather": {
+          "w": 31,
+          "h": 31,
+          "x": 44,
+          "y": 6,
+          "source": "human504-scaled-helm",
+          "n": 612
+        },
+        "f-helm-mail": {
+          "w": 31,
+          "h": 31,
+          "x": 44,
+          "y": 6,
+          "source": "human504-scaled-helm",
+          "n": 659
+        },
+        "f-helm-plate": {
+          "w": 31,
+          "h": 31,
+          "x": 44,
+          "y": 6,
+          "source": "human504-scaled-helm",
+          "n": 650
+        },
+        "hair-swept": {
+          "x": 57,
+          "y": 6,
+          "w": 19,
+          "h": 10,
+          "n": 39
+        },
+        "hair-braids": {
+          "x": 48,
+          "y": 6,
+          "w": 24,
+          "h": 10,
+          "n": 68
+        },
+        "hair-bun": {
+          "x": 55,
+          "y": 5,
+          "w": 9,
+          "h": 3,
+          "n": 14
+        },
+        "hair-short": {
+          "x": 50,
+          "y": 6,
+          "w": 20,
+          "h": 5,
+          "n": 41
+        },
+        "hair-long": {
+          "x": 53,
+          "y": 6,
+          "w": 15,
+          "h": 6,
+          "n": 22
+        }
+      },
+      "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+    },
+    "maukai-m": {
+      "head_top_y": 7,
+      "head_width": 28,
+      "neck_y": 29,
+      "neck_width": 23,
+      "shoulder_y": 38,
+      "shoulder_outer_width": 48,
+      "arm_separate_y": 66,
+      "chest_y": 67,
+      "chest_width": 32,
+      "chest_outer_width": 55,
+      "waist_y": 72,
+      "waist_width": 30,
+      "waist_x": [
+        45,
+        74
+      ],
+      "hip_y": 95,
+      "hip_width": 38,
+      "hip_x": [
+        41,
+        78
+      ],
+      "crotch_y": 107,
+      "thigh_width": 19,
+      "armpit_y": 66,
+      "knee_y": 146,
+      "knee_estimated": true,
+      "knee_width": 14,
+      "ankle_y": 171,
+      "ankle_width": 7,
+      "foot_y": 194,
+      "foot_width": 43,
+      "foot_x": [
+        39,
+        81
+      ],
+      "hand_bottom_y": 106,
+      "total_height": 188,
+      "leg_len": 87,
+      "bbox": [
+        30,
+        4,
+        94,
+        195
+      ],
+      "frame": "human-m (shared below the neck)",
+      "label": "maukai-m",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+    },
+    "maukai-f": {
+      "head_top_y": 7,
+      "head_width": 26,
+      "neck_y": 32,
+      "neck_width": 20,
+      "shoulder_y": 39,
+      "shoulder_outer_width": 44,
+      "arm_separate_y": 62,
+      "chest_y": 63,
+      "chest_width": 29,
+      "chest_outer_width": 49,
+      "waist_y": 73,
+      "waist_width": 25,
+      "waist_x": [
+        47,
+        71
+      ],
+      "hip_y": 102,
+      "hip_width": 43,
+      "hip_x": [
+        38,
+        80
+      ],
+      "crotch_y": 106,
+      "thigh_width": 19,
+      "armpit_y": 62,
+      "knee_y": 146,
+      "knee_estimated": true,
+      "knee_width": 13,
+      "ankle_y": 175,
+      "ankle_width": 6,
+      "foot_y": 194,
+      "foot_width": 62,
+      "foot_x": [
+        29,
+        90
+      ],
+      "hand_bottom_y": 103,
+      "total_height": 188,
+      "leg_len": 88,
+      "bbox": [
+        27,
+        4,
+        99,
+        195
+      ],
+      "frame": "human-f (shared below the neck)",
+      "label": "maukai-f",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+    },
+    "dwarf-m": {
+      "head_top_y": 7,
+      "head_width": 25,
+      "neck_y": 29,
+      "neck_width": 19,
+      "shoulder_y": 41,
+      "shoulder_outer_width": 58,
+      "arm_separate_y": 71,
+      "chest_y": 72,
+      "chest_width": 40,
+      "chest_outer_width": 73,
+      "waist_y": 75,
+      "waist_width": 38,
+      "waist_x": [
+        41,
+        78
+      ],
+      "hip_y": 112,
+      "hip_width": 52,
+      "hip_x": [
+        36,
+        87
+      ],
+      "crotch_y": 114,
+      "thigh_width": 23,
+      "armpit_y": 71,
+      "knee_y": 150,
+      "knee_estimated": true,
+      "knee_width": 18,
+      "ankle_y": 173,
+      "ankle_width": 10,
+      "foot_y": 195,
+      "foot_width": 58,
+      "foot_x": [
+        31,
+        88
+      ],
+      "hand_bottom_y": 113,
+      "total_height": 189,
+      "leg_len": 81,
+      "bbox": [
+        21,
+        7,
+        99,
+        196
+      ],
+      "frame": "own (dwarf)",
+      "label": "dwarf-m",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+    },
+    "dwarf-f": {
+      "head_top_y": 7,
+      "head_width": 25,
+      "neck_y": 32,
+      "neck_width": 15,
+      "shoulder_y": 43,
+      "shoulder_outer_width": 53,
+      "arm_separate_y": 67,
+      "chest_y": 68,
+      "chest_width": 35,
+      "chest_outer_width": 61,
+      "waist_y": 77,
+      "waist_width": 32,
+      "waist_x": [
+        44,
+        75
+      ],
+      "hip_y": 105,
+      "hip_width": 48,
+      "hip_x": [
+        36,
+        83
+      ],
+      "crotch_y": 112,
+      "thigh_width": 23,
+      "armpit_y": 67,
+      "knee_y": 149,
+      "knee_estimated": true,
+      "knee_width": 17,
+      "ankle_y": 175,
+      "ankle_width": 9,
+      "foot_y": 195,
+      "foot_width": 61,
+      "foot_x": [
+        30,
+        90
+      ],
+      "hand_bottom_y": 111,
+      "total_height": 189,
+      "leg_len": 83,
+      "bbox": [
+        25,
+        7,
+        96,
+        196
+      ],
+      "frame": "own (dwarf)",
+      "label": "dwarf-f",
+      "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+    }
+  },
+  "human-m": {
+    "head_top_y": 7,
+    "head_width": 21,
+    "neck_y": 27,
+    "neck_width": 15,
+    "shoulder_y": 38,
+    "shoulder_outer_width": 48,
+    "arm_separate_y": 66,
+    "chest_y": 67,
+    "chest_width": 32,
+    "chest_outer_width": 55,
+    "waist_y": 72,
+    "waist_width": 30,
+    "waist_x": [
+      45,
+      74
+    ],
+    "hip_y": 95,
+    "hip_width": 38,
+    "hip_x": [
+      41,
+      78
+    ],
+    "crotch_y": 107,
+    "thigh_width": 19,
+    "armpit_y": 66,
+    "knee_y": 146,
+    "knee_estimated": true,
+    "knee_width": 14,
+    "ankle_y": 171,
+    "ankle_width": 7,
+    "foot_y": 194,
+    "foot_width": 43,
+    "foot_x": [
+      39,
+      81
+    ],
+    "hand_bottom_y": 106,
+    "total_height": 188,
+    "leg_len": 87,
+    "bbox": [
+      30,
+      7,
+      90,
+      195
+    ],
+    "frame": "human",
+    "label": "human-m",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+    "piece_morphs": {
+      "armour-leather": {
+        "w": 72,
+        "h": 101,
+        "x": 24,
+        "y": 32,
+        "source": "504a86d"
+      },
+      "armour-mail": {
+        "w": 74,
+        "h": 91,
+        "x": 23,
+        "y": 38,
+        "source": "504a86d"
+      },
+      "armour-plate": {
+        "w": 59,
+        "h": 100,
+        "x": 30,
+        "y": 30,
+        "source": "504a86d"
+      },
+      "boots-leather": {
+        "w": 42,
+        "h": 38,
+        "x": 39,
+        "y": 158,
+        "source": "504a86d"
+      },
+      "boots-mail": {
+        "w": 42,
+        "h": 38,
+        "x": 39,
+        "y": 158,
+        "source": "504a86d"
+      },
+      "boots-plate": {
+        "w": 42,
+        "h": 38,
+        "x": 39,
+        "y": 158,
+        "source": "504a86d"
+      },
+      "boots": {
+        "w": 42,
+        "h": 38,
+        "x": 39,
+        "y": 158,
+        "source": "504a86d"
+      },
+      "bracers-leather": {
+        "w": 61,
+        "h": 28,
+        "x": 30,
+        "y": 105,
+        "source": "504a86d"
+      },
+      "bracers-plate": {
+        "w": 62,
+        "h": 26,
+        "x": 30,
+        "y": 106,
+        "source": "504a86d"
+      },
+      "cloak": {
+        "w": 72,
+        "h": 134,
+        "x": 24,
+        "y": 38,
+        "source": "504a86d"
+      },
+      "greaves-plate": {
+        "w": 44,
+        "h": 38,
+        "x": 38,
+        "y": 144,
+        "source": "504a86d"
+      },
+      "hair-long": {
+        "w": 45,
+        "h": 61,
+        "x": 40,
+        "y": 7,
+        "source": "504a86d"
+      },
+      "hair-short": {
+        "w": 32,
+        "h": 36,
+        "x": 51,
+        "y": 7,
+        "source": "504a86d"
+      },
+      "hair-swept": {
+        "w": 45,
+        "h": 61,
+        "x": 41,
+        "y": 7,
+        "source": "504a86d"
+      },
+      "pauldrons-leather": {
+        "w": 65,
+        "h": 19,
+        "x": 28,
+        "y": 41,
+        "source": "504a86d"
+      },
+      "pauldrons-plate": {
+        "w": 65,
+        "h": 24,
+        "x": 28,
+        "y": 38,
+        "source": "504a86d"
+      },
+      "robe": {
+        "w": 72,
+        "h": 134,
+        "x": 24,
+        "y": 38,
+        "source": "504a86d"
+      },
+      "trousers-leather": {
+        "w": 40,
+        "h": 66,
+        "x": 40,
+        "y": 112,
+        "source": "504a86d"
+      },
+      "trousers-mail": {
+        "w": 40,
+        "h": 66,
+        "x": 40,
+        "y": 112,
+        "source": "504a86d"
+      },
+      "trousers": {
+        "w": 40,
+        "h": 66,
+        "x": 40,
+        "y": 112,
+        "source": "504a86d"
+      },
+      "tunic": {
+        "w": 74,
+        "h": 110,
+        "x": 23,
+        "y": 36,
+        "source": "504a86d"
+      },
+      "underclothes": {
+        "w": 52,
+        "h": 109,
+        "x": 34,
+        "y": 36,
+        "source": "504a86d"
+      },
+      "helm-leather": {
+        "x": 43,
+        "y": 7,
+        "w": 35,
+        "h": 40,
+        "n": 830,
+        "source": "504a86d"
+      },
+      "helm-mail": {
+        "x": 45,
+        "y": 7,
+        "w": 31,
+        "h": 41,
+        "n": 961,
+        "source": "504a86d"
+      },
+      "helm-plate": {
+        "x": 45,
+        "y": 7,
+        "w": 30,
+        "h": 41,
+        "n": 818,
+        "source": "504a86d"
+      }
+    },
+    "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+  },
+  "human-f": {
+    "head_top_y": 7,
+    "head_width": 20,
+    "neck_y": 29,
+    "neck_width": 12,
+    "shoulder_y": 39,
+    "shoulder_outer_width": 44,
+    "arm_separate_y": 62,
+    "chest_y": 63,
+    "chest_width": 29,
+    "chest_outer_width": 49,
+    "waist_y": 73,
+    "waist_width": 25,
+    "waist_x": [
+      47,
+      71
+    ],
+    "hip_y": 102,
+    "hip_width": 43,
+    "hip_x": [
+      38,
+      80
+    ],
+    "crotch_y": 104,
+    "thigh_width": 20,
+    "armpit_y": 62,
+    "knee_y": 144,
+    "knee_estimated": true,
+    "knee_width": 13,
+    "ankle_y": 175,
+    "ankle_width": 6,
+    "foot_y": 194,
+    "foot_width": 62,
+    "foot_x": [
+      29,
+      90
+    ],
+    "hand_bottom_y": 103,
+    "total_height": 188,
+    "leg_len": 90,
+    "bbox": [
+      27,
+      7,
+      93,
+      195
+    ],
+    "frame": "human",
+    "label": "human-f",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+    "piece_morphs": {
+      "armour-leather": {
+        "w": 54,
+        "h": 101,
+        "x": 32,
+        "y": 32,
+        "source": "504a86d"
+      },
+      "armour-mail": {
+        "w": 66,
+        "h": 103,
+        "x": 26,
+        "y": 32,
+        "source": "504a86d"
+      },
+      "armour-plate": {
+        "w": 52,
+        "h": 100,
+        "x": 34,
+        "y": 30,
+        "source": "504a86d"
+      },
+      "boots-leather": {
+        "w": 67,
+        "h": 40,
+        "x": 26,
+        "y": 156,
+        "source": "504a86d"
+      },
+      "boots-mail": {
+        "w": 67,
+        "h": 40,
+        "x": 26,
+        "y": 156,
+        "source": "504a86d"
+      },
+      "boots-plate": {
+        "w": 67,
+        "h": 40,
+        "x": 26,
+        "y": 156,
+        "source": "504a86d"
+      },
+      "boots": {
+        "w": 67,
+        "h": 40,
+        "x": 26,
+        "y": 156,
+        "source": "504a86d"
+      },
+      "bracers-leather": {
+        "w": 65,
+        "h": 28,
+        "x": 28,
+        "y": 105,
+        "source": "504a86d"
+      },
+      "bracers-plate": {
+        "w": 66,
+        "h": 26,
+        "x": 28,
+        "y": 106,
+        "source": "504a86d"
+      },
+      "cloak": {
+        "w": 72,
+        "h": 134,
+        "x": 24,
+        "y": 38,
+        "source": "504a86d"
+      },
+      "greaves-plate": {
+        "w": 63,
+        "h": 38,
+        "x": 29,
+        "y": 144,
+        "source": "504a86d"
+      },
+      "hair-braids": {
+        "w": 31,
+        "h": 59,
+        "x": 47,
+        "y": 7,
+        "source": "504a86d"
+      },
+      "hair-bun": {
+        "w": 28,
+        "h": 61,
+        "x": 50,
+        "y": 7,
+        "source": "504a86d"
+      },
+      "hair-long": {
+        "w": 37,
+        "h": 63,
+        "x": 42,
+        "y": 7,
+        "source": "504a86d"
+      },
+      "pauldrons-leather": {
+        "w": 61,
+        "h": 19,
+        "x": 30,
+        "y": 39,
+        "source": "504a86d"
+      },
+      "pauldrons-plate": {
+        "w": 61,
+        "h": 24,
+        "x": 30,
+        "y": 36,
+        "source": "504a86d"
+      },
+      "robe": {
+        "w": 72,
+        "h": 134,
+        "x": 24,
+        "y": 38,
+        "source": "504a86d"
+      },
+      "trousers-leather": {
+        "w": 49,
+        "h": 66,
+        "x": 35,
+        "y": 112,
+        "source": "504a86d"
+      },
+      "trousers-mail": {
+        "w": 54,
+        "h": 66,
+        "x": 33,
+        "y": 112,
+        "source": "504a86d"
+      },
+      "trousers": {
+        "w": 54,
+        "h": 66,
+        "x": 33,
+        "y": 112,
+        "source": "504a86d"
+      },
+      "tunic": {
+        "w": 59,
+        "h": 120,
+        "x": 31,
+        "y": 36,
+        "source": "504a86d"
+      },
+      "underclothes": {
+        "w": 60,
+        "h": 125,
+        "x": 30,
+        "y": 34,
+        "source": "504a86d"
+      },
+      "f-helm-leather": {
+        "x": 43,
+        "y": 7,
+        "w": 35,
+        "h": 40,
+        "n": 830,
+        "source": "504a86d"
+      },
+      "f-helm-mail": {
+        "x": 45,
+        "y": 7,
+        "w": 31,
+        "h": 41,
+        "n": 961,
+        "source": "504a86d"
+      },
+      "f-helm-plate": {
+        "x": 45,
+        "y": 7,
+        "w": 30,
+        "h": 41,
+        "n": 818,
+        "source": "504a86d"
+      }
+    },
+    "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+  },
+  "elf-m": {
+    "head_top_y": 7,
+    "head_width": 24,
+    "neck_y": 26,
+    "neck_width": 14,
+    "shoulder_y": 38,
+    "shoulder_outer_width": 48,
+    "arm_separate_y": 66,
+    "chest_y": 67,
+    "chest_width": 32,
+    "chest_outer_width": 55,
+    "waist_y": 72,
+    "waist_width": 30,
+    "waist_x": [
+      45,
+      74
+    ],
+    "hip_y": 95,
+    "hip_width": 38,
+    "hip_x": [
+      41,
+      78
+    ],
+    "crotch_y": 107,
+    "thigh_width": 19,
+    "armpit_y": 66,
+    "knee_y": 146,
+    "knee_estimated": true,
+    "knee_width": 14,
+    "ankle_y": 171,
+    "ankle_width": 7,
+    "foot_y": 194,
+    "foot_width": 43,
+    "foot_x": [
+      39,
+      81
+    ],
+    "hand_bottom_y": 106,
+    "total_height": 188,
+    "leg_len": 87,
+    "bbox": [
+      30,
+      7,
+      90,
+      195
+    ],
+    "frame": "human-m (shared below the neck)",
+    "label": "elf-m",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+  },
+  "elf-f": {
+    "head_top_y": 7,
+    "head_width": 24,
+    "neck_y": 30,
+    "neck_width": 11,
+    "shoulder_y": 39,
+    "shoulder_outer_width": 44,
+    "arm_separate_y": 62,
+    "chest_y": 63,
+    "chest_width": 29,
+    "chest_outer_width": 49,
+    "waist_y": 73,
+    "waist_width": 25,
+    "waist_x": [
+      47,
+      71
+    ],
+    "hip_y": 102,
+    "hip_width": 43,
+    "hip_x": [
+      38,
+      80
+    ],
+    "crotch_y": 104,
+    "thigh_width": 20,
+    "armpit_y": 62,
+    "knee_y": 144,
+    "knee_estimated": true,
+    "knee_width": 13,
+    "ankle_y": 175,
+    "ankle_width": 6,
+    "foot_y": 194,
+    "foot_width": 62,
+    "foot_x": [
+      29,
+      90
+    ],
+    "hand_bottom_y": 103,
+    "total_height": 188,
+    "leg_len": 90,
+    "bbox": [
+      27,
+      7,
+      93,
+      195
+    ],
+    "frame": "human-f (shared below the neck)",
+    "label": "elf-f",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+  },
+  "crocasian-m": {
+    "head_top_y": 6,
+    "head_width": 24,
+    "neck_y": 26,
+    "neck_width": 18,
+    "shoulder_y": 38,
+    "shoulder_outer_width": 48,
+    "arm_separate_y": 66,
+    "chest_y": 67,
+    "chest_width": 32,
+    "chest_outer_width": 55,
+    "waist_y": 72,
+    "waist_width": 30,
+    "waist_x": [
+      45,
+      74
+    ],
+    "hip_y": 95,
+    "hip_width": 38,
+    "hip_x": [
+      41,
+      78
+    ],
+    "crotch_y": 107,
+    "thigh_width": 19,
+    "armpit_y": 66,
+    "knee_y": 146,
+    "knee_estimated": true,
+    "knee_width": 14,
+    "ankle_y": 171,
+    "ankle_width": 7,
+    "foot_y": 194,
+    "foot_width": 43,
+    "foot_x": [
+      39,
+      81
+    ],
+    "hand_bottom_y": 106,
+    "total_height": 189,
+    "leg_len": 87,
+    "bbox": [
+      30,
+      6,
+      90,
+      195
+    ],
+    "frame": "human-m (shared below the neck)",
+    "label": "crocasian-m",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+    "piece_morphs": {
+      "tunic": {
+        "w": 79,
+        "h": 118,
+        "x": 21,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 6785
+      },
+      "robe": {
+        "w": 77,
+        "h": 144,
+        "x": 22,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 8114
+      },
+      "cloak": {
+        "w": 77,
+        "h": 144,
+        "x": 22,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 8114
+      },
+      "underclothes": {
+        "w": 64,
+        "h": 117,
+        "x": 28,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 6774
+      },
+      "armour-leather": {
+        "w": 77,
+        "h": 108,
+        "x": 22,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 6754
+      },
+      "armour-mail": {
+        "w": 79,
+        "h": 98,
+        "x": 21,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 5843
+      },
+      "armour-plate": {
+        "w": 72,
+        "h": 107,
+        "x": 24,
+        "y": 32,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.069,
+        "n": 6453
+      },
+      "pauldrons-leather": {
+        "w": 69,
+        "h": 20,
+        "x": 26,
+        "y": 34,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.069,
+        "n": 529
+      },
+      "pauldrons-plate": {
+        "w": 69,
+        "h": 26,
+        "x": 26,
+        "y": 34,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.069,
+        "n": 783
+      },
+      "trousers": {
+        "w": 64,
+        "h": 64,
+        "x": 28,
+        "y": 104,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.143,
+        "n": 3453
+      },
+      "trousers-leather": {
+        "w": 64,
+        "h": 64,
+        "x": 28,
+        "y": 104,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.143,
+        "n": 3388
+      },
+      "trousers-mail": {
+        "w": 64,
+        "h": 64,
+        "x": 28,
+        "y": 104,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.143,
+        "n": 3388
+      },
+      "greaves-plate": {
+        "w": 64,
+        "h": 37,
+        "x": 28,
+        "y": 104,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.143,
+        "n": 1437
+      },
+      "boots": {
+        "w": 58,
+        "h": 45,
+        "x": 31,
+        "y": 151,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.163,
+        "n": 1820
+      },
+      "boots-leather": {
+        "w": 58,
+        "h": 45,
+        "x": 31,
+        "y": 151,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.163,
+        "n": 1820
+      },
+      "boots-mail": {
+        "w": 58,
+        "h": 45,
+        "x": 31,
+        "y": 151,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.163,
+        "n": 1820
+      },
+      "boots-plate": {
+        "w": 58,
+        "h": 45,
+        "x": 31,
+        "y": 151,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.163,
+        "n": 1820
+      },
+      "bracers-leather": {
+        "w": 65,
+        "h": 30,
+        "x": 28,
+        "y": 105,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.069,
+        "n": 740
+      },
+      "bracers-plate": {
+        "w": 66,
+        "h": 28,
+        "x": 27,
+        "y": 106,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.069,
+        "n": 638
+      },
+      "helm-leather": {
+        "w": 32,
+        "h": 31,
+        "x": 43,
+        "y": 6,
+        "source": "human504-scaled-helm",
+        "n": 616
+      },
+      "helm-mail": {
+        "w": 32,
+        "h": 31,
+        "x": 43,
+        "y": 6,
+        "source": "human504-scaled-helm",
+        "n": 673
+      },
+      "helm-plate": {
+        "w": 32,
+        "h": 31,
+        "x": 43,
+        "y": 6,
+        "source": "human504-scaled-helm",
+        "n": 665
+      },
+      "hair-swept": {
+        "x": 57,
+        "y": 6,
+        "w": 19,
+        "h": 10,
+        "n": 35
+      },
+      "hair-braids": {
+        "x": 47,
+        "y": 6,
+        "w": 26,
+        "h": 10,
+        "n": 69
+      },
+      "hair-bun": {
+        "x": 55,
+        "y": 5,
+        "w": 9,
+        "h": 3,
+        "n": 12
+      },
+      "hair-short": {
+        "x": 50,
+        "y": 6,
+        "w": 20,
+        "h": 4,
+        "n": 35
+      },
+      "hair-long": {
+        "x": 53,
+        "y": 6,
+        "w": 14,
+        "h": 4,
+        "n": 16
+      }
+    },
+    "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+  },
+  "crocasian-f": {
+    "head_top_y": 6,
+    "head_width": 24,
+    "neck_y": 26,
+    "neck_width": 16,
+    "shoulder_y": 39,
+    "shoulder_outer_width": 44,
+    "arm_separate_y": 62,
+    "chest_y": 63,
+    "chest_width": 29,
+    "chest_outer_width": 49,
+    "waist_y": 73,
+    "waist_width": 25,
+    "waist_x": [
+      47,
+      71
+    ],
+    "hip_y": 102,
+    "hip_width": 43,
+    "hip_x": [
+      38,
+      80
+    ],
+    "crotch_y": 104,
+    "thigh_width": 20,
+    "armpit_y": 62,
+    "knee_y": 144,
+    "knee_estimated": true,
+    "knee_width": 13,
+    "ankle_y": 175,
+    "ankle_width": 6,
+    "foot_y": 194,
+    "foot_width": 62,
+    "foot_x": [
+      29,
+      90
+    ],
+    "hand_bottom_y": 103,
+    "total_height": 189,
+    "leg_len": 90,
+    "bbox": [
+      27,
+      6,
+      93,
+      195
+    ],
+    "frame": "human-f (shared below the neck)",
+    "label": "crocasian-f",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09",
+    "piece_morphs": {
+      "tunic": {
+        "w": 70,
+        "h": 116,
+        "x": 25,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 6669
+      },
+      "robe": {
+        "w": 76,
+        "h": 130,
+        "x": 22,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 7087
+      },
+      "cloak": {
+        "w": 76,
+        "h": 130,
+        "x": 22,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 7087
+      },
+      "underclothes": {
+        "w": 70,
+        "h": 121,
+        "x": 25,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 6925
+      },
+      "armour-leather": {
+        "w": 70,
+        "h": 98,
+        "x": 25,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 5803
+      },
+      "armour-mail": {
+        "w": 70,
+        "h": 100,
+        "x": 25,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 5709
+      },
+      "armour-plate": {
+        "w": 74,
+        "h": 97,
+        "x": 23,
+        "y": 39,
+        "source": "human504-scaled",
+        "region": "chest",
+        "scale_w": 1.053,
+        "n": 5614
+      },
+      "pauldrons-leather": {
+        "w": 72,
+        "h": 18,
+        "x": 24,
+        "y": 41,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.053,
+        "n": 517
+      },
+      "pauldrons-plate": {
+        "w": 72,
+        "h": 23,
+        "x": 24,
+        "y": 41,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.053,
+        "n": 781
+      },
+      "trousers": {
+        "w": 62,
+        "h": 66,
+        "x": 29,
+        "y": 101,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.053,
+        "n": 3152
+      },
+      "trousers-leather": {
+        "w": 62,
+        "h": 66,
+        "x": 29,
+        "y": 101,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.053,
+        "n": 3114
+      },
+      "trousers-mail": {
+        "w": 62,
+        "h": 66,
+        "x": 29,
+        "y": 101,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.053,
+        "n": 3116
+      },
+      "greaves-plate": {
+        "w": 62,
+        "h": 38,
+        "x": 29,
+        "y": 101,
+        "source": "human504-scaled",
+        "region": "hip",
+        "scale_w": 1.053,
+        "n": 949
+      },
+      "boots": {
+        "w": 76,
+        "h": 53,
+        "x": 22,
+        "y": 143,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.053,
+        "n": 2809
+      },
+      "boots-leather": {
+        "w": 76,
+        "h": 53,
+        "x": 22,
+        "y": 143,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.053,
+        "n": 2809
+      },
+      "boots-mail": {
+        "w": 76,
+        "h": 53,
+        "x": 22,
+        "y": 143,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.053,
+        "n": 2809
+      },
+      "boots-plate": {
+        "w": 76,
+        "h": 53,
+        "x": 22,
+        "y": 143,
+        "source": "human504-scaled",
+        "region": "foot",
+        "scale_w": 1.053,
+        "n": 2809
+      },
+      "bracers-leather": {
+        "w": 68,
+        "h": 27,
+        "x": 26,
+        "y": 105,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.053,
+        "n": 714
+      },
+      "bracers-plate": {
+        "w": 69,
+        "h": 25,
+        "x": 26,
+        "y": 106,
+        "source": "human504-scaled",
+        "region": "shoulder",
+        "scale_w": 1.053,
+        "n": 588
+      },
+      "f-helm-leather": {
+        "w": 31,
+        "h": 31,
+        "x": 44,
+        "y": 6,
+        "source": "human504-scaled-helm",
+        "n": 612
+      },
+      "f-helm-mail": {
+        "w": 31,
+        "h": 31,
+        "x": 44,
+        "y": 6,
+        "source": "human504-scaled-helm",
+        "n": 659
+      },
+      "f-helm-plate": {
+        "w": 31,
+        "h": 31,
+        "x": 44,
+        "y": 6,
+        "source": "human504-scaled-helm",
+        "n": 650
+      },
+      "hair-swept": {
+        "x": 57,
+        "y": 6,
+        "w": 19,
+        "h": 10,
+        "n": 39
+      },
+      "hair-braids": {
+        "x": 48,
+        "y": 6,
+        "w": 24,
+        "h": 10,
+        "n": 68
+      },
+      "hair-bun": {
+        "x": 55,
+        "y": 5,
+        "w": 9,
+        "h": 3,
+        "n": 14
+      },
+      "hair-short": {
+        "x": 50,
+        "y": 6,
+        "w": 20,
+        "h": 5,
+        "n": 41
+      },
+      "hair-long": {
+        "x": 53,
+        "y": 6,
+        "w": 15,
+        "h": 6,
+        "n": 22
+      }
+    },
+    "piece_morphs_source": "df-looks-croc 383d7f0 (not refit to these bare measurements)"
+  },
+  "maukai-m": {
+    "head_top_y": 7,
+    "head_width": 28,
+    "neck_y": 29,
+    "neck_width": 23,
+    "shoulder_y": 38,
+    "shoulder_outer_width": 48,
+    "arm_separate_y": 66,
+    "chest_y": 67,
+    "chest_width": 32,
+    "chest_outer_width": 55,
+    "waist_y": 72,
+    "waist_width": 30,
+    "waist_x": [
+      45,
+      74
+    ],
+    "hip_y": 95,
+    "hip_width": 38,
+    "hip_x": [
+      41,
+      78
+    ],
+    "crotch_y": 107,
+    "thigh_width": 19,
+    "armpit_y": 66,
+    "knee_y": 146,
+    "knee_estimated": true,
+    "knee_width": 14,
+    "ankle_y": 171,
+    "ankle_width": 7,
+    "foot_y": 194,
+    "foot_width": 43,
+    "foot_x": [
+      39,
+      81
+    ],
+    "hand_bottom_y": 106,
+    "total_height": 188,
+    "leg_len": 87,
+    "bbox": [
+      30,
+      4,
+      94,
+      195
+    ],
+    "frame": "human-m (shared below the neck)",
+    "label": "maukai-m",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+  },
+  "maukai-f": {
+    "head_top_y": 7,
+    "head_width": 26,
+    "neck_y": 32,
+    "neck_width": 20,
+    "shoulder_y": 39,
+    "shoulder_outer_width": 44,
+    "arm_separate_y": 62,
+    "chest_y": 63,
+    "chest_width": 29,
+    "chest_outer_width": 49,
+    "waist_y": 73,
+    "waist_width": 25,
+    "waist_x": [
+      47,
+      71
+    ],
+    "hip_y": 102,
+    "hip_width": 43,
+    "hip_x": [
+      38,
+      80
+    ],
+    "crotch_y": 106,
+    "thigh_width": 19,
+    "armpit_y": 62,
+    "knee_y": 146,
+    "knee_estimated": true,
+    "knee_width": 13,
+    "ankle_y": 175,
+    "ankle_width": 6,
+    "foot_y": 194,
+    "foot_width": 62,
+    "foot_x": [
+      29,
+      90
+    ],
+    "hand_bottom_y": 103,
+    "total_height": 188,
+    "leg_len": 88,
+    "bbox": [
+      27,
+      4,
+      99,
+      195
+    ],
+    "frame": "human-f (shared below the neck)",
+    "label": "maukai-f",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+  },
+  "dwarf-m": {
+    "head_top_y": 7,
+    "head_width": 25,
+    "neck_y": 29,
+    "neck_width": 19,
+    "shoulder_y": 41,
+    "shoulder_outer_width": 58,
+    "arm_separate_y": 71,
+    "chest_y": 72,
+    "chest_width": 40,
+    "chest_outer_width": 73,
+    "waist_y": 75,
+    "waist_width": 38,
+    "waist_x": [
+      41,
+      78
+    ],
+    "hip_y": 112,
+    "hip_width": 52,
+    "hip_x": [
+      36,
+      87
+    ],
+    "crotch_y": 114,
+    "thigh_width": 23,
+    "armpit_y": 71,
+    "knee_y": 150,
+    "knee_estimated": true,
+    "knee_width": 18,
+    "ankle_y": 173,
+    "ankle_width": 10,
+    "foot_y": 195,
+    "foot_width": 58,
+    "foot_x": [
+      31,
+      88
+    ],
+    "hand_bottom_y": 113,
+    "total_height": 189,
+    "leg_len": 81,
+    "bbox": [
+      21,
+      7,
+      99,
+      196
+    ],
+    "frame": "own (dwarf)",
+    "label": "dwarf-m",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+  },
+  "dwarf-f": {
+    "head_top_y": 7,
+    "head_width": 25,
+    "neck_y": 32,
+    "neck_width": 15,
+    "shoulder_y": 43,
+    "shoulder_outer_width": 53,
+    "arm_separate_y": 67,
+    "chest_y": 68,
+    "chest_width": 35,
+    "chest_outer_width": 61,
+    "waist_y": 77,
+    "waist_width": 32,
+    "waist_x": [
+      44,
+      75
+    ],
+    "hip_y": 105,
+    "hip_width": 48,
+    "hip_x": [
+      36,
+      83
+    ],
+    "crotch_y": 112,
+    "thigh_width": 23,
+    "armpit_y": 67,
+    "knee_y": 149,
+    "knee_estimated": true,
+    "knee_width": 17,
+    "ankle_y": 175,
+    "ankle_width": 9,
+    "foot_y": 195,
+    "foot_width": 61,
+    "foot_x": [
+      30,
+      90
+    ],
+    "hand_bottom_y": 111,
+    "total_height": 189,
+    "leg_len": 83,
+    "bbox": [
+      25,
+      7,
+      96,
+      196
+    ],
+    "frame": "own (dwarf)",
+    "label": "dwarf-f",
+    "method": "bare-skin silhouette (underclothes only), 2026-11-09"
+  }
+}

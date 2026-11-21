@@ -1,0 +1,4 @@
+Original pixel art for HearthHold
+Created procedurally with Python + Pillow for HearthHold Pack 3b (Grok Build).
+Revision of Pack 3 walk-cycle frames; not derived from Dwarf Fortress, Kenney,
+or other third-party sprite packs.

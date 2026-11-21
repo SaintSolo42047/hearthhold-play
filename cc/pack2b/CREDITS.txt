@@ -1,0 +1,3 @@
+Original pixel art for HearthHold
+
+Pack 2b edge-match revision generated with Python + Pillow.

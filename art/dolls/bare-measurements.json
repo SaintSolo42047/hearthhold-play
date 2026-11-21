@@ -1,0 +1,489 @@
+{
+ "canvas": [
+  120,
+  200
+ ],
+ "source": "bare bodies in hearthhold-library/art/dolls/bare (2026-11-09), skin silhouette with tight underclothes; widths are left-leg widths for thigh/knee/ankle",
+ "bodies": {
+  "human-m": {
+   "head_top_y": 7,
+   "head_width": 21,
+   "neck_y": 27,
+   "neck_width": 15,
+   "shoulder_y": 38,
+   "shoulder_outer_width": 48,
+   "arm_separate_y": 66,
+   "chest_y": 67,
+   "chest_width": 32,
+   "chest_outer_width": 55,
+   "waist_y": 72,
+   "waist_width": 30,
+   "waist_x": [
+    45,
+    74
+   ],
+   "hip_y": 95,
+   "hip_width": 38,
+   "hip_x": [
+    41,
+    78
+   ],
+   "crotch_y": 107,
+   "thigh_width": 19,
+   "armpit_y": 66,
+   "knee_y": 146,
+   "knee_estimated": true,
+   "knee_width": 14,
+   "ankle_y": 171,
+   "ankle_width": 7,
+   "foot_y": 194,
+   "foot_width": 43,
+   "foot_x": [
+    39,
+    81
+   ],
+   "hand_bottom_y": 106,
+   "total_height": 188,
+   "leg_len": 87,
+   "bbox": [
+    30,
+    7,
+    90,
+    195
+   ],
+   "frame": "human"
+  },
+  "human-f": {
+   "head_top_y": 7,
+   "head_width": 20,
+   "neck_y": 29,
+   "neck_width": 12,
+   "shoulder_y": 39,
+   "shoulder_outer_width": 44,
+   "arm_separate_y": 62,
+   "chest_y": 63,
+   "chest_width": 29,
+   "chest_outer_width": 49,
+   "waist_y": 73,
+   "waist_width": 25,
+   "waist_x": [
+    47,
+    71
+   ],
+   "hip_y": 102,
+   "hip_width": 43,
+   "hip_x": [
+    38,
+    80
+   ],
+   "crotch_y": 104,
+   "thigh_width": 20,
+   "armpit_y": 62,
+   "knee_y": 144,
+   "knee_estimated": true,
+   "knee_width": 13,
+   "ankle_y": 175,
+   "ankle_width": 6,
+   "foot_y": 194,
+   "foot_width": 62,
+   "foot_x": [
+    29,
+    90
+   ],
+   "hand_bottom_y": 103,
+   "total_height": 188,
+   "leg_len": 90,
+   "bbox": [
+    27,
+    7,
+    93,
+    195
+   ],
+   "frame": "human"
+  },
+  "elf-m": {
+   "head_top_y": 7,
+   "head_width": 24,
+   "neck_y": 26,
+   "neck_width": 14,
+   "shoulder_y": 38,
+   "shoulder_outer_width": 48,
+   "arm_separate_y": 66,
+   "chest_y": 67,
+   "chest_width": 32,
+   "chest_outer_width": 55,
+   "waist_y": 72,
+   "waist_width": 30,
+   "waist_x": [
+    45,
+    74
+   ],
+   "hip_y": 95,
+   "hip_width": 38,
+   "hip_x": [
+    41,
+    78
+   ],
+   "crotch_y": 107,
+   "thigh_width": 19,
+   "armpit_y": 66,
+   "knee_y": 146,
+   "knee_estimated": true,
+   "knee_width": 14,
+   "ankle_y": 171,
+   "ankle_width": 7,
+   "foot_y": 194,
+   "foot_width": 43,
+   "foot_x": [
+    39,
+    81
+   ],
+   "hand_bottom_y": 106,
+   "total_height": 188,
+   "leg_len": 87,
+   "bbox": [
+    30,
+    7,
+    90,
+    195
+   ],
+   "frame": "human-m (shared below the neck)"
+  },
+  "elf-f": {
+   "head_top_y": 7,
+   "head_width": 24,
+   "neck_y": 30,
+   "neck_width": 11,
+   "shoulder_y": 39,
+   "shoulder_outer_width": 44,
+   "arm_separate_y": 62,
+   "chest_y": 63,
+   "chest_width": 29,
+   "chest_outer_width": 49,
+   "waist_y": 73,
+   "waist_width": 25,
+   "waist_x": [
+    47,
+    71
+   ],
+   "hip_y": 102,
+   "hip_width": 43,
+   "hip_x": [
+    38,
+    80
+   ],
+   "crotch_y": 104,
+   "thigh_width": 20,
+   "armpit_y": 62,
+   "knee_y": 144,
+   "knee_estimated": true,
+   "knee_width": 13,
+   "ankle_y": 175,
+   "ankle_width": 6,
+   "foot_y": 194,
+   "foot_width": 62,
+   "foot_x": [
+    29,
+    90
+   ],
+   "hand_bottom_y": 103,
+   "total_height": 188,
+   "leg_len": 90,
+   "bbox": [
+    27,
+    7,
+    93,
+    195
+   ],
+   "frame": "human-f (shared below the neck)"
+  },
+  "crocasian-m": {
+   "head_top_y": 6,
+   "head_width": 24,
+   "neck_y": 26,
+   "neck_width": 18,
+   "shoulder_y": 38,
+   "shoulder_outer_width": 48,
+   "arm_separate_y": 66,
+   "chest_y": 67,
+   "chest_width": 32,
+   "chest_outer_width": 55,
+   "waist_y": 72,
+   "waist_width": 30,
+   "waist_x": [
+    45,
+    74
+   ],
+   "hip_y": 95,
+   "hip_width": 38,
+   "hip_x": [
+    41,
+    78
+   ],
+   "crotch_y": 107,
+   "thigh_width": 19,
+   "armpit_y": 66,
+   "knee_y": 146,
+   "knee_estimated": true,
+   "knee_width": 14,
+   "ankle_y": 171,
+   "ankle_width": 7,
+   "foot_y": 194,
+   "foot_width": 43,
+   "foot_x": [
+    39,
+    81
+   ],
+   "hand_bottom_y": 106,
+   "total_height": 189,
+   "leg_len": 87,
+   "bbox": [
+    30,
+    6,
+    90,
+    195
+   ],
+   "frame": "human-m (shared below the neck)"
+  },
+  "crocasian-f": {
+   "head_top_y": 6,
+   "head_width": 24,
+   "neck_y": 26,
+   "neck_width": 16,
+   "shoulder_y": 39,
+   "shoulder_outer_width": 44,
+   "arm_separate_y": 62,
+   "chest_y": 63,
+   "chest_width": 29,
+   "chest_outer_width": 49,
+   "waist_y": 73,
+   "waist_width": 25,
+   "waist_x": [
+    47,
+    71
+   ],
+   "hip_y": 102,
+   "hip_width": 43,
+   "hip_x": [
+    38,
+    80
+   ],
+   "crotch_y": 104,
+   "thigh_width": 20,
+   "armpit_y": 62,
+   "knee_y": 144,
+   "knee_estimated": true,
+   "knee_width": 13,
+   "ankle_y": 175,
+   "ankle_width": 6,
+   "foot_y": 194,
+   "foot_width": 62,
+   "foot_x": [
+    29,
+    90
+   ],
+   "hand_bottom_y": 103,
+   "total_height": 189,
+   "leg_len": 90,
+   "bbox": [
+    27,
+    6,
+    93,
+    195
+   ],
+   "frame": "human-f (shared below the neck)"
+  },
+  "maukai-m": {
+   "head_top_y": 7,
+   "head_width": 28,
+   "neck_y": 29,
+   "neck_width": 23,
+   "shoulder_y": 38,
+   "shoulder_outer_width": 48,
+   "arm_separate_y": 66,
+   "chest_y": 67,
+   "chest_width": 32,
+   "chest_outer_width": 55,
+   "waist_y": 72,
+   "waist_width": 30,
+   "waist_x": [
+    45,
+    74
+   ],
+   "hip_y": 95,
+   "hip_width": 38,
+   "hip_x": [
+    41,
+    78
+   ],
+   "crotch_y": 107,
+   "thigh_width": 19,
+   "armpit_y": 66,
+   "knee_y": 146,
+   "knee_estimated": true,
+   "knee_width": 14,
+   "ankle_y": 171,
+   "ankle_width": 7,
+   "foot_y": 194,
+   "foot_width": 43,
+   "foot_x": [
+    39,
+    81
+   ],
+   "hand_bottom_y": 106,
+   "total_height": 188,
+   "leg_len": 87,
+   "bbox": [
+    30,
+    4,
+    94,
+    195
+   ],
+   "frame": "human-m (shared below the neck)"
+  },
+  "maukai-f": {
+   "head_top_y": 7,
+   "head_width": 26,
+   "neck_y": 32,
+   "neck_width": 20,
+   "shoulder_y": 39,
+   "shoulder_outer_width": 44,
+   "arm_separate_y": 62,
+   "chest_y": 63,
+   "chest_width": 29,
+   "chest_outer_width": 49,
+   "waist_y": 73,
+   "waist_width": 25,
+   "waist_x": [
+    47,
+    71
+   ],
+   "hip_y": 102,
+   "hip_width": 43,
+   "hip_x": [
+    38,
+    80
+   ],
+   "crotch_y": 106,
+   "thigh_width": 19,
+   "armpit_y": 62,
+   "knee_y": 146,
+   "knee_estimated": true,
+   "knee_width": 13,
+   "ankle_y": 175,
+   "ankle_width": 6,
+   "foot_y": 194,
+   "foot_width": 62,
+   "foot_x": [
+    29,
+    90
+   ],
+   "hand_bottom_y": 103,
+   "total_height": 188,
+   "leg_len": 88,
+   "bbox": [
+    27,
+    4,
+    99,
+    195
+   ],
+   "frame": "human-f (shared below the neck)"
+  },
+  "dwarf-m": {
+   "head_top_y": 7,
+   "head_width": 25,
+   "neck_y": 29,
+   "neck_width": 19,
+   "shoulder_y": 41,
+   "shoulder_outer_width": 58,
+   "arm_separate_y": 71,
+   "chest_y": 72,
+   "chest_width": 40,
+   "chest_outer_width": 73,
+   "waist_y": 75,
+   "waist_width": 38,
+   "waist_x": [
+    41,
+    78
+   ],
+   "hip_y": 112,
+   "hip_width": 52,
+   "hip_x": [
+    36,
+    87
+   ],
+   "crotch_y": 114,
+   "thigh_width": 23,
+   "armpit_y": 71,
+   "knee_y": 150,
+   "knee_estimated": true,
+   "knee_width": 18,
+   "ankle_y": 173,
+   "ankle_width": 10,
+   "foot_y": 195,
+   "foot_width": 58,
+   "foot_x": [
+    31,
+    88
+   ],
+   "hand_bottom_y": 113,
+   "total_height": 189,
+   "leg_len": 81,
+   "bbox": [
+    21,
+    7,
+    99,
+    196
+   ],
+   "frame": "own (dwarf)"
+  },
+  "dwarf-f": {
+   "head_top_y": 7,
+   "head_width": 25,
+   "neck_y": 32,
+   "neck_width": 15,
+   "shoulder_y": 43,
+   "shoulder_outer_width": 53,
+   "arm_separate_y": 67,
+   "chest_y": 68,
+   "chest_width": 35,
+   "chest_outer_width": 61,
+   "waist_y": 77,
+   "waist_width": 32,
+   "waist_x": [
+    44,
+    75
+   ],
+   "hip_y": 105,
+   "hip_width": 48,
+   "hip_x": [
+    36,
+    83
+   ],
+   "crotch_y": 112,
+   "thigh_width": 23,
+   "armpit_y": 67,
+   "knee_y": 149,
+   "knee_estimated": true,
+   "knee_width": 17,
+   "ankle_y": 175,
+   "ankle_width": 9,
+   "foot_y": 195,
+   "foot_width": 61,
+   "foot_x": [
+    30,
+    90
+   ],
+   "hand_bottom_y": 111,
+   "total_height": 189,
+   "leg_len": 83,
+   "bbox": [
+    25,
+    7,
+    96,
+    196
+   ],
+   "frame": "own (dwarf)"
+  }
+ }
+}

@@ -1,0 +1,4 @@
+Original pixel art for HearthHold
+Created procedurally with Python + Pillow for HearthHold Pack 4 (Grok Build).
+Creatures and ore nuggets; not derived from Dwarf Fortress, Kenney,
+or other third-party sprite packs.

@@ -1,0 +1,18 @@
+HearthHold Pack 2b edge-match validation
+Generated: 2026-09-26 (America/New_York)
+
+Stone set (5 tiles):
+- left edge vs every other right edge max channel delta: 0
+- top edge vs every other bottom edge max channel delta: 0
+- edge RGB range: 116..120 (target centered on 118)
+- result: PASS
+
+Rock set (4 tiles):
+- left edge vs every other right edge max channel delta: 0
+- top edge vs every other bottom edge max channel delta: 0
+- result: PASS
+
+Format validation:
+- all terrain PNGs: PASS (32x32 RGB opaque)
+- all furniture PNGs: PASS (32x32 RGBA)
+- table transparent outside object silhouette: PASS (alpha bbox (4, 5, 28, 28))

@@ -1,0 +1,5 @@
+Pack 2b (public/cc/pack2b) is original 32×32 pixel art for HearthHold.
+Terrain and furniture in that folder are drawn in the live fort.
+Grass still uses the Kenney Roguelike/RPG pack (www.kenney.nl), CC0, until a grass tile arrives.
+
+Kenney (www.kenney.nl). Creative Commons CC0.

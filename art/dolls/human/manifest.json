@@ -1,0 +1,74 @@
+{
+  "folk": "human",
+  "size": [
+    120,
+    200
+  ],
+  "anchors": {
+    "head_y": 6,
+    "foot_y": 195
+  },
+  "model": "df-overlay-grip-base",
+  "stack": "body \u2192 outfit \u2192 hair \u2192 skin tint \u2192 hair tint \u2192 helm \u2192 shield \u2192 weapon",
+  "slots": {
+    "m": [
+      "bald",
+      "bare",
+      "body",
+      "leather",
+      "mail",
+      "plate",
+      "robe",
+      "tunic",
+      "skin-fair",
+      "skin-deep",
+      "skin-tan"
+    ],
+    "f": [
+      "bald",
+      "bare",
+      "body",
+      "leather",
+      "mail",
+      "plate",
+      "robe",
+      "tunic"
+    ]
+  },
+  "hair": {
+    "m": [
+      "bald",
+      "long",
+      "short",
+      "swept"
+    ],
+    "f": [
+      "bald",
+      "braids",
+      "bun",
+      "long",
+      "short"
+    ]
+  },
+  "gear": [
+    "axe",
+    "bow",
+    "hammer",
+    "helm-leather",
+    "helm-mail",
+    "helm-plate",
+    "knife",
+    "longbow",
+    "shield",
+    "shield-iron",
+    "spear",
+    "sword",
+    "f-helm-leather",
+    "f-helm-mail",
+    "f-helm-plate",
+    "f-shield",
+    "f-sword"
+  ],
+  "offsets": "offsets.json",
+  "notes": "One grip-base per sex; gear are cut-outs. Armour bodies have no baked helm/shield/weapon."
+}
